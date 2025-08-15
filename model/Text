@@ -1,0 +1,5 @@
+Model 
+* Stores trained machine learning models separately from code and data
+* Keeps the project organized and easy to navigate
+* Makes it simple to load models for deployment or reuse
+* Allows tracking of different model versions if needed
